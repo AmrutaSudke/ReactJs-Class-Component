@@ -1,7 +1,13 @@
 .App {
   text-align: center;
+  color: darkcyan;
 }
-
+.section{
+  color: brown;
+}
+.footer{
+  color: crimson;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
